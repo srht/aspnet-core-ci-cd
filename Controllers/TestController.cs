@@ -9,6 +9,6 @@ public class TestController : ControllerBase
     [HttpGet]
     public string Get()
     {
-        return "gs d13 self runner ";
+        return "gs d13 self runner 2";
     }
 }
