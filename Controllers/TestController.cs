@@ -9,6 +9,6 @@ public class TestController : ControllerBase
     [HttpGet]
     public string Get()
     {
-        return "gs d2";
+        return "gs d3";
     }
 }
